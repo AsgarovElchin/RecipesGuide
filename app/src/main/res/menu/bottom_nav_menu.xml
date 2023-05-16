@@ -2,15 +2,15 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:id="@+id/foodRecipesFragment"
-        android:title="Recipes"
+        android:title="@string/recipes"
         android:icon="@drawable/ic_menu_book"/>
 
     <item android:id="@+id/favoriteRecipesFragment"
-        android:title="Favorites"
+        android:title="@string/favorites"
         android:icon="@drawable/ic_star"/>
 
     <item android:id="@+id/foodJokeFragment"
-        android:title="Joke"
+        android:title="@string/joke"
         android:icon="@drawable/ic_food_joke"/>
 
 </menu>
